@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://quickaid-collective-mk4x.bolt.host">
+  <a href="npx plugins add vercel/vercel-plugin">
     🌐 Live Prototype
   </a>
 </p>
@@ -247,7 +247,7 @@ The goal is not simply to build another emergency application.
 
 ## Live Prototype
 
-🌐 **[QuickAid Collective](https://quickaid-collective-mk4x.bolt.host)**
+🌐 **[QuickAid Collective](npx plugins add vercel/vercel-plugin)**
 
 ---
 ## Creator
