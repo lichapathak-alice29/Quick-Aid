@@ -61,6 +61,7 @@ Nearby Member Matching
 Responder Provides Assistance
        ↓
 Transparent Service & Value Sharing
-
-
+```
+##Published link
+```
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-qzvtxnp3)
