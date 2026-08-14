@@ -250,10 +250,12 @@ The goal is not simply to build another emergency application.
 🌐 **[QuickAid Collective](https://quickaid-collective-mk4x.bolt.host)**
 
 ---
-# Creator
+## Creator
 
-Licha Pathak
-Gauhati University
+_Licha Pathak_
+
+_Gauhati University_
+
 ---
 
 <p align="center">
